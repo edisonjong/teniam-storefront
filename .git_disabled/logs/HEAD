@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 de1f569dcd8e2fb0ac59bca02c05eaab74ddec06 CyberTycoon <silasokanla2006@gmail.com> 1770583186 -0800	clone: from https://github.com/mercurjs/b2c-marketplace-storefront.git
+de1f569dcd8e2fb0ac59bca02c05eaab74ddec06 e3a8d8b0e44c85b1731a9bc4b97225f2258e382c CyberTycoon <silasokanla2006@gmail.com> 1771409921 +0100	commit: first commit
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c 0000000000000000000000000000000000000000 CyberTycoon <silasokanla2006@gmail.com> 1771409922 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c e3a8d8b0e44c85b1731a9bc4b97225f2258e382c CyberTycoon <silasokanla2006@gmail.com> 1771409922 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c 0000000000000000000000000000000000000000 CyberTycoon <silasokanla2006@gmail.com> 1771409943 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c e3a8d8b0e44c85b1731a9bc4b97225f2258e382c CyberTycoon <silasokanla2006@gmail.com> 1771409943 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c 0000000000000000000000000000000000000000 CyberTycoon <silasokanla2006@gmail.com> 1771410074 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c e3a8d8b0e44c85b1731a9bc4b97225f2258e382c CyberTycoon <silasokanla2006@gmail.com> 1771410074 +0100	Branch: renamed refs/heads/main to refs/heads/main
+e3a8d8b0e44c85b1731a9bc4b97225f2258e382c 43d3fbd255b5e9e5fc0f7e9dc3c7b783c08ecef6 CyberTycoon <silasokanla2006@gmail.com> 1771433849 +0100	commit: new home and product page modification
+43d3fbd255b5e9e5fc0f7e9dc3c7b783c08ecef6 c96327e3c948b541fdde9f3c860fd93170d73d39 CyberTycoon <silasokanla2006@gmail.com> 1771516859 +0100	commit: new-home & seller page
+c96327e3c948b541fdde9f3c860fd93170d73d39 6f841d47e7805e1683c9bb4997343db881d00538 CyberTycoon <silasokanla2006@gmail.com> 1771520164 +0100	commit: user navigation commented out of user page and nav-user utilizes
+6f841d47e7805e1683c9bb4997343db881d00538 13d15409d477095f1ca3f590b794c05e3f5a349e CyberTycoon <silasokanla2006@gmail.com> 1771598975 +0100	commit: new-home responsiveness
+13d15409d477095f1ca3f590b794c05e3f5a349e e4e5be032fa30b3d55c09db214df8b4d95c16be6 CyberTycoon <silasokanla2006@gmail.com> 1771602076 +0100	commit: categories page automatic sidebar close
+e4e5be032fa30b3d55c09db214df8b4d95c16be6 427d694446542e8e1ff7a8a379a52428a51972e9 CyberTycoon <silasokanla2006@gmail.com> 1771603251 +0100	commit: footer design
