@@ -13,8 +13,8 @@ export const HomeProductSection = async ({
   home?: boolean
 }) => {
   return (
-    <section className="py-8 w-full">
-      <h2 className="mb-4 heading-lg font-bold tracking-tight uppercase">
+    <section className="pt-8 pb-2 w-full">
+      <h2 className="heading-lg font-bold tracking-tight uppercase">
         {heading}
       </h2>
       {/* <HomeProductsCarousel
