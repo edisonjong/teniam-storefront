@@ -11,7 +11,6 @@ import Script from "next/script"
 import { listRegions } from "@/lib/data/regions"
 import { listProducts } from "@/lib/data/products"
 import { toHreflang } from "@/lib/helpers/hreflang"
-import { CategoriesPageWrapper } from "@/components/CategoriesPageWrapper"
 
 export const revalidate = 60
 
@@ -108,8 +107,7 @@ async function AllCategories({
   }))
 
   return (
-    <CategoriesPageWrapper>
-      <main className="container">
+    <main className="container">
         <Script
           id="ld-breadcrumbs-categories"
           type="application/ld+json"
@@ -156,7 +154,6 @@ async function AllCategories({
           )}
         </Suspense>
       </main>
-    </CategoriesPageWrapper>
   )
 }
 

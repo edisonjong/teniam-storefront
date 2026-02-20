@@ -18,6 +18,7 @@ import { NewProductsListing } from "@/components/sections/ProductListing/NewProd
 import { ProductGridWrapper } from "@/components/ProductGridWrapper"
 import { getRegion } from "@/lib/data/regions"
 import { Button } from "@medusajs/ui"
+import LocalizedClientLink from "@/components/molecules/LocalizedLink/LocalizedLink"
 
 export async function generateMetadata({
   params,
@@ -197,20 +198,22 @@ export default async function Home({
         <ProductGridWrapper locale={locale} currency_code={currency_code} />
       </div>
 <div className="w-full flex justify-center py-12">
-  <Button 
-    variant="secondary" 
-    className="
-      h-10 px-8
-      bg-white !text-slate-900 
-      border border-slate-200 
-      rounded-xl shadow-sm 
-      font-medium tracking-tight
-      hover:bg-slate-50
-      transition-all duration-200
-    "
-  >
-    All Products
-  </Button>
+  <LocalizedClientLink href={`/categories`}>
+    <Button 
+      variant="secondary" 
+      className="
+        h-10 px-8
+        bg-white !text-slate-900 
+        border border-slate-200 
+        rounded-xl shadow-sm 
+        font-medium tracking-tight
+        hover:bg-slate-50
+        transition-all duration-200
+      "
+    >
+      All Products
+    </Button>
+  </LocalizedClientLink>
 </div>
       
     </main>
